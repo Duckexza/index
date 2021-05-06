@@ -1,5 +1,5 @@
 body {
-  background-image: url("imgs/bckgd_body.png);
+  background: url(https://raw.githubusercontent.com/Duckexza/index/main/css/imgs/bckgd_body.png);
 }
 html, body, #hero, #overlay {
   height: 100%;
