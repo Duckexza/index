@@ -1,6 +1,5 @@
 body {
-  height: 1500px;
-  background: url(https://www.brainpickings.org/wp-content/themes/brainpickings/images/bckgd_body.png);
+  background: href="imgs/bckgd_body.png);
 }
 html, body, #hero, #overlay {
   height: 100%;
