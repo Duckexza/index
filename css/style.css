@@ -1,5 +1,5 @@
 body {
-  background: href="imgs/bckgd_body.png);
+  background-image: url("imgs/bckgd_body.png);
 }
 html, body, #hero, #overlay {
   height: 100%;
