@@ -194,6 +194,7 @@ html, body, h2, #hero, #overlay {
   text-align: center;
   padding-top: 35px;
   opacity: 1;
+    z-index: 99;
 }
 .titulo {
     font-size: 50px;
