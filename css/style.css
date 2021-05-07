@@ -1,5 +1,5 @@
 #bg {
-  background: url("imgs/bckgd_body.png");
+  background: url("css/imgs/bckgd_body.png");
   animation: shake 0.5s;
   /* When the animation is finished, start again */
   animation-iteration-count: infinite;
