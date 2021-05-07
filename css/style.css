@@ -3,14 +3,11 @@
     src: url('https://fonts.google.com/specimen/Russo+One'); /*URL to font*/
 }
 
-
-.classname {
-    font-family: 'RussoOne';
-}
 body {
   background: url("imgs/bckgd_body.png");
 }
 html, body, h2, #hero, #overlay {
+  font-family: 'RussoOne';
   height: 100%;
   width: 100%;
   min-height: 100%;
