@@ -1,13 +1,8 @@
-@font-face {
-    font-family: 'RussoOne'; /*a name to be used later*/
-    src: url('https://fonts.google.com/specimen/Russo+One'); /*URL to font*/
-}
-
 body {
   background: url("imgs/bckgd_body.png");
 }
 html, body, h2, #hero, #overlay {
-  font-family: 'RussoOne';
+  font-family: 'Russo One';
   height: 100%;
   width: 100%;
   min-height: 100%;
