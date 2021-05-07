@@ -1,7 +1,7 @@
       var init;
       
       function Loading() {
-        init = setTimeout(showInit, 1500);
+        init = setTimeout(showInit, 150000);
       }
       
       function showInit() {
