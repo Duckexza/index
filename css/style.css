@@ -261,9 +261,5 @@ html, body, h2, #hero, #overlay {
     font-size: 50px;
 }
 #titulo {
-    height: auto;
-    width: auto;
-    position: fixed;
-    top: 50%;
-    left: 44%;
+
 }
