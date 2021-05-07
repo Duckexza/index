@@ -113,3 +113,6 @@ html, body, h2, #hero, #overlay {
   text-align: center;
   padding-top: 35px;
 }
+.titulo {
+    font-size: 50px;
+}
