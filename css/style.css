@@ -24,7 +24,6 @@
     overflow: hidden;
     height: 100%;
     bottom: -1px;
-    background-image: linear-gradient(to top, #86377b -50%, #27273c00 50%);
 }
 .bgTop {
     z-index: 15;
