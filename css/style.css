@@ -146,7 +146,7 @@ html, body, h2, #hero, #overlay {
 /* Center the loader */
 #loader {
   position: absolute;
-  left: 50%;
+  left: 48%;
   top: 50%;
   z-index: 1;
 }
