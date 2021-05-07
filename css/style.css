@@ -1,3 +1,12 @@
+@font-face {
+    font-family: 'RussoOne'; /*a name to be used later*/
+    src: url('https://fonts.google.com/specimen/Russo+One'); /*URL to font*/
+}
+
+
+.classname {
+    font-family: 'RussoOne';
+}
 body {
   background: url("imgs/bckgd_body.png");
 }
