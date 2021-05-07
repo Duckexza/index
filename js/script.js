@@ -1,10 +1,10 @@
-      var myVar;
+      var init;
       
       function Loading() {
-        myVar = setTimeout(showPage, 1500);
+        init = setTimeout(showInit, 1500);
       }
       
-      function showPage() {
+      function showInit() {
         document.getElementById("loader").style.display = "none";
         document.getElementById("myDiv").style.display = "block";
       }
