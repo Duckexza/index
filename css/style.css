@@ -1,7 +1,7 @@
 body {
   background: url("imgs/bckgd_body.png");
 }
-html, body, #hero, #overlay {
+html, body, h2, #hero, #overlay {
   height: 100%;
   width: 100%;
   min-height: 100%;
